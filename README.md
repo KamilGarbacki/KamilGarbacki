@@ -1,6 +1,4 @@
-# Kamil Garbacki
-
-**`Student at AGH University`**
+# Welcome to my Github profile!
 
 I am a Computer Science in Engineering student at AGH University of Science and Technology, driven by a passion for programming and technology. My projects are meticulously crafted from the ground up, encompassing every stage from planning and design to delivering practical solutions to real-world challenges through code.
 
