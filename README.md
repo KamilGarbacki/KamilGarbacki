@@ -31,5 +31,14 @@ A showcase of my journey as a developer, featuring diverse projects that reflect
 
 # 
 
+### ☁️ Cloud Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+<br/>
+<br/>
+
+# 
+
 ### 📊Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilGarbacki&show_icons=true&theme=onedark&hide=stars)                             
