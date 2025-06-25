@@ -34,6 +34,7 @@ A showcase of my journey as a developer, featuring diverse projects that reflect
 ### ☁️ Cloud Certifications
 
 <!--START_SECTION:badges-->
+![Cloud Digital Leader Certification](https://images.credly.com/size/80x80/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png "Cloud Digital Leader Certification")
 <!--END_SECTION:badges-->
 
 <br/>
