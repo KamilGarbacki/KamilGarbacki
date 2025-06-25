@@ -33,6 +33,7 @@ A showcase of my journey as a developer, featuring diverse projects that reflect
 
 ### ☁️ Cloud Certifications
 <!--START_SECTION:badges-->
+
 <!--END_SECTION:badges-->
 
 <br/>
