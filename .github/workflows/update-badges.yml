@@ -1,9 +1,7 @@
 name: Update badges
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
@@ -15,6 +13,7 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.4.0
+        uses: pemtajo/badge-readme@3.0.0
         with:       
           CREDLY_USER: ${{ secrets.CREDLY_USERNAME }}
+          NUMBER_LAST_BADGES: 0
