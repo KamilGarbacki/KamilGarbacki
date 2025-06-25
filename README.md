@@ -34,13 +34,9 @@ A showcase of my journey as a developer, featuring diverse projects that reflect
 ### ☁️ Cloud Certifications
 
 <!--START_SECTION:badges-->
-![Cloud Digital Leader Certification](https://images.credly.com/size/120x120/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png "Cloud Digital Leader Certification")
+![Cloud Digital Leader Certification](https://images.credly.com/size/160x160/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png "Cloud Digital Leader Certification")
 <!--END_SECTION:badges-->
 
-<br/>
-<br/>
-
-# 
 
 ### 📊Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilGarbacki&show_icons=true&theme=onedark&hide=stars)                             
