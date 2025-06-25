@@ -15,6 +15,6 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.4.0
         with:       
           CREDLY_USER: ${{ secrets.CREDLY_USERNAME }} # optional, but default will use the same from github
