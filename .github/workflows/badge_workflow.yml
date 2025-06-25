@@ -15,4 +15,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: "Kamil Garbacki" # optional, but default will use the same from github
+          CREDLY_USER: ${{ secrets.CREDLY_USERNAME }} # optional, but default will use the same from github
